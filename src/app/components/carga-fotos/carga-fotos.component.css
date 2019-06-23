@@ -1,0 +1,10 @@
+img{
+  width: 250px;
+  height: 250px;
+}
+.well{
+  width: auto !important;
+}
+.caja{
+  width: 100% !important ;
+}
